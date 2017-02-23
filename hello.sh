@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello word!"
+echo "Ho word!"
 echo "I like ice cream!"
